@@ -1,0 +1,111 @@
+{
+  "success": true,
+  "message": "Code executed successfully.",
+  "data": {
+    "result": {
+      "scene": "Assets/Scenes/Prototype_Maquis.unity",
+      "isDirty": false,
+      "renderScale": 1,
+      "MSAA": 4,
+      "shadowDistance": 32,
+      "shadowCascades": 2,
+      "plants": {
+        "Arbousier": 7,
+        "Lentisque": 51,
+        "Ciste": 71,
+        "Pin": 48
+      },
+      "allHighestLODGeometry": 7082558,
+      "allLowestLODGeometry": 687786,
+      "solidMeshColliders": 52,
+      "renderersIncludingAlternativeLODs": 434,
+      "sharedSurfaceMaterials": 10,
+      "graniteTexture": "1024x1024",
+      "paintedShaderSupported": true,
+      "shaderMessages": [],
+      "captureViews": [
+        {
+          "file": "01_Depart_Maquis.png",
+          "distance": 0,
+          "eyeWorld": [
+            -3,
+            1.648549,
+            -11
+          ],
+          "eyeAboveGround": 1.65,
+          "rotationEuler": "(0.00, 358.42, 0.00)",
+          "width": 1920,
+          "height": 1080,
+          "FOV": 65,
+          "MSAA": 4,
+          "postprocessImage": false
+        },
+        {
+          "file": "02_Milieu_5m.png",
+          "distance": 5,
+          "eyeWorld": [
+            -2.851714,
+            1.75573921,
+            -6.020399
+          ],
+          "eyeAboveGround": 1.65,
+          "rotationEuler": "(0.00, 11.47, 0.00)",
+          "width": 1920,
+          "height": 1080,
+          "FOV": 65,
+          "MSAA": 4,
+          "postprocessImage": false
+        },
+        {
+          "file": "03_Transition_10m.png",
+          "distance": 10,
+          "eyeWorld": [
+            0.197889909,
+            1.81816947,
+            -2.30312753
+          ],
+          "eyeAboveGround": 1.65,
+          "rotationEuler": "(356.02, 356.96, 0.00)",
+          "width": 1920,
+          "height": 1080,
+          "FOV": 65,
+          "MSAA": 4,
+          "postprocessImage": false
+        },
+        {
+          "file": "04_Decouverte_Montagne.png",
+          "distance": 14,
+          "eyeWorld": [
+            1.69624,
+            1.951522,
+            1.37786186
+          ],
+          "eyeAboveGround": 1.65,
+          "rotationEuler": "(355.77, 355.26, 0.00)",
+          "width": 1920,
+          "height": 1080,
+          "FOV": 65,
+          "MSAA": 4,
+          "postprocessImage": false
+        },
+        {
+          "file": "05_Alentours_Lateral.png",
+          "distance": 6,
+          "eyeWorld": [
+            -2.583418,
+            1.75446284,
+            -5.05836344
+          ],
+          "eyeAboveGround": 1.65,
+          "rotationEuler": "(0.00, 284.04, 0.00)",
+          "width": 1920,
+          "height": 1080,
+          "FOV": 65,
+          "MSAA": 4,
+          "postprocessImage": false
+        }
+      ]
+    },
+    "compiler": "codedom"
+  }
+}

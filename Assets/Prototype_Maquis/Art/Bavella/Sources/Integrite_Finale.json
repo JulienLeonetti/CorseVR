@@ -1,0 +1,28 @@
+{
+  "success": true,
+  "message": "Code executed successfully.",
+  "data": {
+    "result": {
+      "sharedSurfaceMaterialCount": 10,
+      "materialNames": [
+        "Arene_Granitique_Sentier",
+        "Bois_Rameaux_Peints",
+        "Arbousier_Vert_Profond",
+        "Lentisque_Cire_Olive",
+        "Ciste_Sauge",
+        "Ciste_Petales_Ivoire",
+        "Pin_Laricio_Aiguilles",
+        "Herbes_Sauge_Seches",
+        "Granit_Rose_Peint",
+        "Granit_Lointain_Bleute"
+      ],
+      "missingMeshes": 0,
+      "rootCount": 4,
+      "shadowCascades": 2,
+      "shadowDistance": 32,
+      "dirty": false,
+      "controllerEnabled": true
+    },
+    "compiler": "codedom"
+  }
+}

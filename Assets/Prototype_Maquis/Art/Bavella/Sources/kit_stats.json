@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Lentisque_0_High",
+    "vertices": 31644,
+    "triangles": 41040
+  },
+  {
+    "name": "Lentisque_0_Low",
+    "vertices": 2268,
+    "triangles": 3066
+  },
+  {
+    "name": "Lentisque_1_High",
+    "vertices": 31644,
+    "triangles": 41040
+  },
+  {
+    "name": "Lentisque_1_Low",
+    "vertices": 2268,
+    "triangles": 3066
+  },
+  {
+    "name": "Lentisque_2_High",
+    "vertices": 31644,
+    "triangles": 41040
+  },
+  {
+    "name": "Lentisque_2_Low",
+    "vertices": 2268,
+    "triangles": 3066
+  },
+  {
+    "name": "Arbousier_0_High",
+    "vertices": 39522,
+    "triangles": 50400
+  },
+  {
+    "name": "Arbousier_0_Low",
+    "vertices": 1680,
+    "triangles": 2190
+  },
+  {
+    "name": "Arbousier_1_High",
+    "vertices": 39522,
+    "triangles": 50400
+  },
+  {
+    "name": "Arbousier_1_Low",
+    "vertices": 1680,
+    "triangles": 2190
+  },
+  {
+    "name": "Arbousier_2_High",
+    "vertices": 39522,
+    "triangles": 50400
+  },
+  {
+    "name": "Arbousier_2_Low",
+    "vertices": 1680,
+    "triangles": 2190
+  },
+  {
+    "name": "Ciste_0_High",
+    "vertices": 29718,
+    "triangles": 37988
+  },
+  {
+    "name": "Ciste_0_Low",
+    "vertices": 2919,
+    "triangles": 3750
+  },
+  {
+    "name": "Ciste_1_High",
+    "vertices": 29442,
+    "triangles": 37660
+  },
+  {
+    "name": "Ciste_1_Low",
+    "vertices": 2763,
+    "triangles": 3582
+  },
+  {
+    "name": "Ciste_2_High",
+    "vertices": 29373,
+    "triangles": 37578
+  },
+  {
+    "name": "Ciste_2_Low",
+    "vertices": 2919,
+    "triangles": 3750
+  },
+  {
+    "name": "Pin_Laricio_0_High",
+    "vertices": 33030,
+    "triangles": 40816
+  },
+  {
+    "name": "Pin_Laricio_0_Low",
+    "vertices": 4494,
+    "triangles": 5296
+  },
+  {
+    "name": "Pin_Laricio_1_High",
+    "vertices": 33030,
+    "triangles": 40816
+  },
+  {
+    "name": "Pin_Laricio_1_Low",
+    "vertices": 4494,
+    "triangles": 5296
+  },
+  {
+    "name": "Pin_Laricio_2_High",
+    "vertices": 33030,
+    "triangles": 40816
+  },
+  {
+    "name": "Pin_Laricio_2_Low",
+    "vertices": 4494,
+    "triangles": 5296
+  },
+  {
+    "name": "Granit_0",
+    "vertices": 486,
+    "triangles": 960
+  },
+  {
+    "name": "Granit_1",
+    "vertices": 486,
+    "triangles": 960
+  },
+  {
+    "name": "Granit_2",
+    "vertices": 486,
+    "triangles": 960
+  },
+  {
+    "name": "Granit_3",
+    "vertices": 486,
+    "triangles": 960
+  },
+  {
+    "name": "Granit_4",
+    "vertices": 486,
+    "triangles": 960
+  },
+  {
+    "name": "Aiguille_0",
+    "vertices": 648,
+    "triangles": 1280
+  },
+  {
+    "name": "Aiguille_1",
+    "vertices": 648,
+    "triangles": 1280
+  },
+  {
+    "name": "Aiguille_2",
+    "vertices": 648,
+    "triangles": 1280
+  },
+  {
+    "name": "Aiguille_3",
+    "vertices": 648,
+    "triangles": 1280
+  },
+  {
+    "name": "Aiguille_4",
+    "vertices": 648,
+    "triangles": 1280
+  },
+  {
+    "name": "Aiguille_5",
+    "vertices": 648,
+    "triangles": 1280
+  },
+  {
+    "name": "Aiguille_6",
+    "vertices": 648,
+    "triangles": 1280
+  },
+  {
+    "name": "Galet_0",
+    "vertices": 36,
+    "triangles": 60
+  }
+]

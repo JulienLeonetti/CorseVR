@@ -1,0 +1,50 @@
+[
+  {
+    "asset": "rocky_trail",
+    "file": "rocky_trail_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocky_trail/rocky_trail_diff_1k.jpg",
+    "sha256": "7f20d83cd4a67f9c38abf72f39f5a3749a962e90bdc156998be027b1227a5bd6",
+    "bytes": 1076180,
+    "license": "CC0-1.0"
+  },
+  {
+    "asset": "rocky_trail",
+    "file": "rocky_trail_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rocky_trail/rocky_trail_nor_gl_1k.jpg",
+    "sha256": "087b8912c8cf40a528965c4282a5b3e4be011da5790273ffcdb5bd2697bde7dd",
+    "bytes": 1398291,
+    "license": "CC0-1.0"
+  },
+  {
+    "asset": "brown_mud_02",
+    "file": "brown_mud_02_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_02/brown_mud_02_diff_1k.jpg",
+    "sha256": "058b6f12493305ec6b47cb5ea77f013c9e7e58216b34af3700a3d3d7d821732d",
+    "bytes": 527741,
+    "license": "CC0-1.0"
+  },
+  {
+    "asset": "brown_mud_02",
+    "file": "brown_mud_02_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_02/brown_mud_02_nor_gl_1k.jpg",
+    "sha256": "9ca6f68d25599c98ba5e594df221f5653d93faceda1ba26a0babb1143e8c615f",
+    "bytes": 1397011,
+    "license": "CC0-1.0"
+  },
+  {
+    "asset": "rock_boulder_dry",
+    "file": "rock_boulder_dry_diff_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_diff_1k.jpg",
+    "sha256": "20f653a42fb24f42aa40641663070d578678da49af18cc1049dbdd4ed8679f3c",
+    "bytes": 859211,
+    "license": "CC0-1.0"
+  },
+  {
+    "asset": "rock_boulder_dry",
+    "file": "rock_boulder_dry_nor_gl_1k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_boulder_dry/rock_boulder_dry_nor_gl_1k.jpg",
+    "sha256": "5915fea28a97357c78a04fb31c2516f1f7ed1b3a9cef4ae25aa93e4655e6c595",
+    "bytes": 802497,
+    "license": "CC0-1.0"
+  }
+]

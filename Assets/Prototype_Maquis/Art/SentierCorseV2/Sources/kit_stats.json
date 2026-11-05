@@ -1,0 +1,157 @@
+[
+  {
+    "name": "LentisqueRampant_0_High",
+    "vertices": 19224,
+    "triangles": 18032
+  },
+  {
+    "name": "LentisqueRampant_0_Low",
+    "vertices": 4149,
+    "triangles": 3926
+  },
+  {
+    "name": "LentisqueRampant_1_High",
+    "vertices": 19224,
+    "triangles": 18032
+  },
+  {
+    "name": "LentisqueRampant_1_Low",
+    "vertices": 4149,
+    "triangles": 3926
+  },
+  {
+    "name": "LentisqueRampant_2_High",
+    "vertices": 19224,
+    "triangles": 18032
+  },
+  {
+    "name": "LentisqueRampant_2_Low",
+    "vertices": 4149,
+    "triangles": 3926
+  },
+  {
+    "name": "LentisqueRampant_3_High",
+    "vertices": 19224,
+    "triangles": 18032
+  },
+  {
+    "name": "LentisqueRampant_3_Low",
+    "vertices": 4149,
+    "triangles": 3926
+  },
+  {
+    "name": "ArbousierBuisson_0_High",
+    "vertices": 7643,
+    "triangles": 7000
+  },
+  {
+    "name": "ArbousierBuisson_0_Low",
+    "vertices": 2873,
+    "triangles": 2740
+  },
+  {
+    "name": "ArbousierBuisson_1_High",
+    "vertices": 7645,
+    "triangles": 7000
+  },
+  {
+    "name": "ArbousierBuisson_1_Low",
+    "vertices": 2875,
+    "triangles": 2740
+  },
+  {
+    "name": "ArbousierBuisson_2_High",
+    "vertices": 7645,
+    "triangles": 7000
+  },
+  {
+    "name": "ArbousierBuisson_2_Low",
+    "vertices": 2875,
+    "triangles": 2740
+  },
+  {
+    "name": "CisteSauge_0_High",
+    "vertices": 1336,
+    "triangles": 1288
+  },
+  {
+    "name": "CisteSauge_0_Low",
+    "vertices": 578,
+    "triangles": 564
+  },
+  {
+    "name": "CisteSauge_1_High",
+    "vertices": 1285,
+    "triangles": 1246
+  },
+  {
+    "name": "CisteSauge_1_Low",
+    "vertices": 578,
+    "triangles": 564
+  },
+  {
+    "name": "CisteSauge_2_High",
+    "vertices": 1287,
+    "triangles": 1246
+  },
+  {
+    "name": "CisteSauge_2_Low",
+    "vertices": 578,
+    "triangles": 564
+  },
+  {
+    "name": "CisteSauge_3_High",
+    "vertices": 1334,
+    "triangles": 1288
+  },
+  {
+    "name": "CisteSauge_3_Low",
+    "vertices": 578,
+    "triangles": 564
+  },
+  {
+    "name": "BruyereFine_0_High",
+    "vertices": 7664,
+    "triangles": 7104
+  },
+  {
+    "name": "BruyereFine_0_Low",
+    "vertices": 2690,
+    "triangles": 2460
+  },
+  {
+    "name": "BruyereFine_1_High",
+    "vertices": 7664,
+    "triangles": 7104
+  },
+  {
+    "name": "BruyereFine_1_Low",
+    "vertices": 2690,
+    "triangles": 2460
+  },
+  {
+    "name": "BruyereFine_2_High",
+    "vertices": 7664,
+    "triangles": 7104
+  },
+  {
+    "name": "BruyereFine_2_Low",
+    "vertices": 2690,
+    "triangles": 2460
+  },
+  {
+    "name": "PinFond_0",
+    "vertices": 1437,
+    "triangles": 1756
+  },
+  {
+    "name": "PinFond_1",
+    "vertices": 1437,
+    "triangles": 1756
+  },
+  {
+    "name": "PinFond_2",
+    "vertices": 1437,
+    "triangles": 1756
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Chene_0_High",
+    "vertices": 30806,
+    "triangles": 28146
+  },
+  {
+    "name": "Chene_0_Low",
+    "vertices": 10592,
+    "triangles": 10066
+  },
+  {
+    "name": "Chene_1_High",
+    "vertices": 30808,
+    "triangles": 28146
+  },
+  {
+    "name": "Chene_1_Low",
+    "vertices": 10594,
+    "triangles": 10066
+  },
+  {
+    "name": "Chene_2_High",
+    "vertices": 30808,
+    "triangles": 28146
+  },
+  {
+    "name": "Chene_2_Low",
+    "vertices": 10594,
+    "triangles": 10066
+  },
+  {
+    "name": "Arbousier_0_High",
+    "vertices": 24996,
+    "triangles": 22854
+  },
+  {
+    "name": "Arbousier_0_Low",
+    "vertices": 8598,
+    "triangles": 8182
+  },
+  {
+    "name": "Arbousier_1_High",
+    "vertices": 24998,
+    "triangles": 22854
+  },
+  {
+    "name": "Arbousier_1_Low",
+    "vertices": 8600,
+    "triangles": 8182
+  },
+  {
+    "name": "Lentisque_0_High",
+    "vertices": 5556,
+    "triangles": 5100
+  },
+  {
+    "name": "Lentisque_0_Low",
+    "vertices": 1632,
+    "triangles": 1596
+  },
+  {
+    "name": "Lentisque_1_High",
+    "vertices": 5556,
+    "triangles": 5100
+  },
+  {
+    "name": "Lentisque_1_Low",
+    "vertices": 1632,
+    "triangles": 1596
+  },
+  {
+    "name": "Lentisque_2_High",
+    "vertices": 5556,
+    "triangles": 5100
+  },
+  {
+    "name": "Lentisque_2_Low",
+    "vertices": 1632,
+    "triangles": 1596
+  },
+  {
+    "name": "Ciste_0_High",
+    "vertices": 6144,
+    "triangles": 5604
+  },
+  {
+    "name": "Ciste_0_Low",
+    "vertices": 1926,
+    "triangles": 1848
+  },
+  {
+    "name": "Ciste_1_High",
+    "vertices": 5899,
+    "triangles": 5394
+  },
+  {
+    "name": "Ciste_1_Low",
+    "vertices": 1828,
+    "triangles": 1764
+  },
+  {
+    "name": "Granit_Anguleux_0",
+    "vertices": 56,
+    "triangles": 108
+  },
+  {
+    "name": "Granit_Anguleux_1",
+    "vertices": 56,
+    "triangles": 108
+  },
+  {
+    "name": "Granit_Anguleux_2",
+    "vertices": 56,
+    "triangles": 108
+  },
+  {
+    "name": "Granit_Anguleux_3",
+    "vertices": 56,
+    "triangles": 108
+  }
+]

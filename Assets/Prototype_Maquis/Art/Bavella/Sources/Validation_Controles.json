@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "message": "Code executed successfully.",
+  "data": {
+    "result": [
+      "ZQSD layout mapping: PASS",
+      "Arrow keys and diagonal speed: PASS",
+      "Gravity and ground collision: PASS (feet y=0,029)",
+      "Forward movement: PASS (3 m in 1 s)",
+      "Continuous controller traversal 0 to 22m: PASS; simulated movement=21,96m; 5m at (-2.86, 0.14, -6.07), 10m at (0.17, 0.20, -2.34), 15m at (1.76, 0.35, 2.33), 20m at (1.54, 0.41, 7.32)",
+      "Emplacement_Nepita accessible: PASS",
+      "Emplacement_Vieille_Femme accessible: PASS",
+      "52 matching solid mesh colliders: PASS",
+      "Passage_Granit_Gauche stops CharacterController: PASS",
+      "Bloc_Granit_00 stops CharacterController: PASS",
+      "Mouse yaw and pitch clamp: PASS",
+      "Escape frame: False, pressed=True",
+      "Escape releases mouse: PASS"
+    ],
+    "compiler": "codedom"
+  }
+}

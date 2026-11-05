@@ -1,0 +1,35 @@
+{
+  "success": true,
+  "message": "Code executed successfully.",
+  "data": {
+    "result": {
+      "gameViewTarget": "(1920.00, 1080.00)",
+      "gameViewActual": "1920x1080",
+      "gameViewResolvedSamples": 1,
+      "zoom": "(0.43, 0.43)",
+      "pixelsPerPoint": 1.25,
+      "renderScale": 1,
+      "pipeline": "Maquis_Desktop_MSAA4",
+      "MSAA": 4,
+      "cameraAllowMSAA": true,
+      "actualCaptureBuffers": [
+        "_CameraTargetAttachment_1920x1080_B10G11R11_UFloatPack32_Tex2D_MSAA4x",
+        "_CameraDepthAttachment_1920x1080_D32_SFloat_S8_UInt_Tex2D_MSAA4x"
+      ],
+      "captureWidth": 1920,
+      "captureHeight": 1080,
+      "capturePosition": [
+        -3,
+        1.65,
+        -11
+      ],
+      "captureEuler": [
+        0,
+        0,
+        0
+      ],
+      "verticalFov": 70
+    },
+    "compiler": "codedom"
+  }
+}

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Terre_et_litiere
+  m_Shader: {fileID: 4800000, guid: ff420e9ba0f643d44a7231ae2247e0ac, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: ca7466d899788e442b3e00b62bec7717, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LitterMap:
+        m_Texture: {fileID: 2800000, guid: 222c2b4b70efe4d4da0368109c3d2e3b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 04208c809f0c7ce4382d09e4db4816ec, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Cutoff: 0.42
+    - _Mode: 1
+    - _NormalStrength: 0.08
+    - _Roughness: 0.78
+    m_Colors:
+    - _BaseColor: {r: 0.78, g: 0.84, b: 0.87, a: 1}
+    - _ShadowTint: {r: 0.65, g: 0.76, b: 0.68, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
